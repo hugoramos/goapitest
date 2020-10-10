@@ -6,7 +6,7 @@ func GetClientName(id int) string {
 	if id == 1 {
 		return "Hugo Ramos"
 	} else if id == 2 {
-		return "Janaina"
+		return "Janaina F."
 	} else {
 		return "Outro nome"
 	}
